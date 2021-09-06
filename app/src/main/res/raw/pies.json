@@ -1,0 +1,170 @@
+
+{
+    "spring": {
+        "weekday": [
+            {"type": "Blueberry","size":"pocket", "qty": 3},
+            {"type": "Blueberry","size": "mini", "qty": 3},
+            {"type": "Blueberry","size": "small", "qty": 5},
+            {"type": "Blueberry","size": "large", "qty": 5},
+            {"type": "Mixed berry", "size":"pocket", "qty": 3},
+            {"type": "Mixed berry", "size":"mini", "qty": 3},
+            {"type": "Mixed berry", "size":"small", "qty": 4},
+            {"type": "Mixed berry", "size":"large", "qty": 4},
+            {"type": "Raspberry", "size":"small", "qty": 3},
+            {"type": "Raspberry", "size":"large", "qty": 3},
+            {"type": "Cherry", "size": "small", "qty": 3},
+            {"type": "Cherry", "size": "large", "qty": 3},
+            {"type": "New England Bog", "size": "small", "qty": 3},
+            {"type": "New England Bog", "size": "large", "qty": 3},
+            {"type": "Pecan", "size": "small", "qty": 3},
+            {"type": "Pecan", "size": "large", "qty": 3},
+            {"type": "Chicken", "size": "small", "qty": 4},
+            {"type": "Chicken", "size": "large", "qty": 4}
+
+        ],
+        "weekend": [
+            {"type": "Blueberry", "size":"pocket", "qty": 4},
+            {"type": "Blueberry", "size":"mini", "qty": 3},
+            {"type": "Blueberry", "size":"small", "qty": 5},
+            {"type": "Blueberry", "size":"large", "qty": 5},
+            {"type": "Mixed berry", "size":"pocket", "qty": 4},
+            {"type": "Mixed berry", "size":"mini", "qty": 3},
+            {"type": "Mixed berry", "size":"small", "qty": 5},
+            {"type": "Mixed berry", "size":"large", "qty": 5},
+            {"type": "Raspberry", "size":"small", "qty": 4},
+            {"type": "Raspberry", "size":"large", "qty": 4},
+            {"type": "Cherry", "size": "small", "qty": 4},
+            {"type": "Cherry", "size": "large", "qty": 4},
+            {"type": "New England Bog", "size": "small", "qty": 5},
+            {"type": "New England Bog", "size": "large", "qty": 5},
+            {"type": "Pecan", "size": "small", "qty": 4},
+            {"type": "Pecan", "size": "large", "qty": 5},
+            {"type": "Chicken", "size": "small", "qty": 4},
+            {"type": "Chicken", "size": "large", "qty": 4}
+        ]
+    },
+    
+    "summer":{
+        "weekday": [
+            {"type": "Blueberry", "size": "pocket", "qty": 4},
+            {"type": "Blueberry", "size": "mini", "qty": 6},
+            {"type": "Blueberry", "size": "small", "qty": 16},
+            {"type": "Blueberry", "size": "large", "qty": 10}
+
+        ],
+
+        "weekend": [
+            {"type": "Blueberry", "size":"pocket", "qty": 6},
+            {"type": "Blueberry", "size":"mini", "qty": 6},
+            {"type": "Blueberry", "size":"small", "qty": 18},
+            {"type": "Blueberry", "size":"large", "qty": 12},
+            {"type": "Mixed berry", "size": "pocket", "qty": 6},
+            {"type": "Mixed berry", "size": "mini", "qty": 6},
+            {"type": "Raspberry", "size":"small", "qty": 6},
+            {"type": "Raspberry", "size":"large", "qty": 7},
+            {"type": "Cherry", "size": "small", "qty": 7},
+            {"type": "Cherry", "size": "large", "qty": 7},
+            {"type": "Peach", "size":"small", "qty": 5},
+            {"type": "Peach", "size":"large", "qty": 5},
+            {"type": "Peach Raspberry", "size":"small", "qty": 3},
+            {"type": "Peach Raspberry", "size":"large", "qty": 3},
+            {"type": "Peach Blueberry", "size": "small", "qty": 3},
+            {"type": "Peach Blueberry", "size": "large", "qty": 3},
+            {"type": "Strawberry Rhubarb", "size": "small", "qty": 5},
+            {"type": "Strawberry Rhubarb", "size": "large", "qty": 5},
+            {"type": "Black and Blue", "size": "small", "qty": 4},
+            {"type": "Black and Blue", "size": "large", "qty": 4}
+        ]
+    },
+
+    "fall": {
+        "weekday": [
+            {"type": "Blueberry", "size": "pocket", "qty": 4},
+            {"type": "Blueberry", "size": "mini", "qty": 4},
+            {"type": "Blueberry", "size": "small", "qty": 16},
+            {"type": "Blueberry", "size": "large", "qty": 10},
+            {"type": "Mixed Berry", "size":"small", "qty": 8},
+            {"type": "Mixed Berry", "size":"large", "qty": 6},
+            {"type": "Cherry", "size": "small", "qty": 5},
+            {"type": "Cherry", "size": "large", "qty": 5},
+            {"type": "Apple", "size": "pocket", "qty": 4},
+            {"type": "Apple", "size": "mini", "qty": 4},
+            {"type": "Apple", "size": "small", "qty": 4},
+            {"type": "Apple", "size": "large", "qty": 4},
+            {"type": "Black and Blue", "size": "small", "qty": 3},
+            {"type": "Black and Blue", "size": "large", "qty": 3},
+            {"type": "New England Bog", "size": "small", "qty": 3},
+            {"type": "New England Bog", "size": "large", "qty": 3},
+            {"type": "Pecan", "size": "small", "qty": 3},
+            {"type": "Pecan", "size": "large", "qty": 3},
+            {"type": "Chicken", "size": "small", "qty": 4},
+            {"type": "Chicken", "size": "large", "qty": 4},
+            {"type": "Pork", "'size":"small", "qty": 3},
+            {"type": "Pork", "'size":"large", "qty": 3}
+        ],
+        "weekend": [
+            {"type": "Blueberry", "'size": "pocket", "qty": 6},
+            {"type": "Blueberry", "'size": "mini", "qty": 6},
+            {"type": "Blueberry", "'size": "small", "qty": 18},
+            {"type": "Blueberry", "'size": "large", "qty": 12},
+            {"type": "Mixed Berry", "size":"small", "qty": 10},
+            {"type": "Mixed Berry", "size":"large", "qty": 8},
+            {"type": "Cherry", "size": "small", "qty": 7},
+            {"type": "Cherry", "size": "large", "qty": 7},
+            {"type": "Apple", "size":"pocket", "qty": 6},
+            {"type": "Apple", "size":"mini", "qty": 6},
+            {"type": "Apple", "size":"small", "qty": 5},
+            {"type": "Apple", "size":"large", "qty": 5},
+            {"type": "Black and Blue", "size": "small", "qty": 4},
+            {"type": "Black and Blue", "size": "small", "qty": 4},
+            {"type": "New England Bog", "size":"small", "qty": 4},
+            {"type": "Pecan", "size": "small", "qty": 4},
+            {"type": "Pecan", "size": "small", "qty": 4},
+            {"type": "Sweet Potato", "size": "small", "qty": 2},
+            {"type": "Sweet Potato", "size": "small", "qty": 3},
+            {"type": "Chicken", "size": "small", "qty": 4},
+            {"type": "Chicken", "size": "small", "qty": 4},
+            {"type": "Pork", "size": "small", "qty": 3}
+        ]
+    },
+    
+    "Winter": {
+
+        "weekday": [
+            {"type": "Blueberry", "size": "pocket", "qty": 2},
+            {"type": "Blueberry", "size": "mini", "qty": 3},
+            {"type": "Blueberry", "size": "small", "qty": 5},
+            {"type": "Blueberry", "size": "large", "qty": 4},
+            {"type": "Mixed berry", "size": "pocket", "qty": 2},
+            {"type": "Mixed berry", "size": "small", "qty": 4},
+            {"type": "Mixed berry", "size": "large", "qty": 4},
+            {"type": "Cherry", "size": "small", "qty": 3},
+            {"type": "Cherry", "size": "large", "qty": 3},
+            {"type": "Apple", "size": "small", "qty": 3},
+            {"type": "Cherry", "size": "large", "qty": 3},
+            {"type": "New England Bog", "size": "small", "qty": 3},
+            {"type": "New England Bog", "size": "large", "qty": 3},
+            {"type": "Pecan", "size": "small", "qty": 3},
+            {"type": "Pecan", "size": "large", "qty": 3},
+            {"type": "Chicken", "size": "small", "qty": 3}
+        ],
+        "weekend": [
+            {"type": "Blueberry", "size": "pocket", "qty": 3},
+            {"type": "Blueberry", "size": "mini", "qty": 3},
+            {"type": "Blueberry", "size": "small", "qty": 5},
+            {"type": "Blueberry", "size": "large", "qty": 5},
+            {"type": "Mixed berry", "size": "pocket", "qty": 3},
+            {"type": "Mixed berry", "size": "small", "qty": 3},
+            {"type": "Mixed berry", "size": "large", "qty": 3},
+            {"type": "Cherry", "size": "small", "qty": 3},
+            {"type": "Apple", "size": "small", "qty": 3},
+            {"type": "New England Bog", "size": "small", "qty": 3},
+            {"type": "New England Bog", "size": "large", "qty": 3},
+            {"type": "Pecan", "size": "small", "qty": 3},
+            {"type": "Pecan", "size": "large", "qty": 3},
+            {"type": "Pear", "size":"small", "qty": 3},
+            {"type": "Pear", "size":"large", "qty": 3},
+            {"type": "Chicken", "size":"small", "qty": 4}
+        ]
+    }
+}

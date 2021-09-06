@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#FFF8E1"
+    android:layout_margin="10dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/pie_flavor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="text"
+            android:textSize="20sp"
+            android:textColor="#616161"
+            android:paddingTop="8dp"
+            />
+
+        <TextView
+            android:id="@+id/pie_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="text"
+            android:textSize="20sp"
+            android:textColor="#616161"
+            android:paddingLeft="8dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Daily par#:"
+            android:textSize="20sp"
+            android:textColor="#616161"
+            android:padding="10dp"/>
+
+        <TextView
+            android:id="@+id/pie_par"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="text"
+            android:textSize="20sp"
+            android:textColor="#616161"
+            android:padding="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/leftover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#616161"
+            android:inputType="number"
+            android:textColorHint="#FF80AB"
+            android:hint="Leftover#"
+            android:paddingBottom="8dp"
+            android:textSize="18sp"/>
+        <EditText
+            android:id="@+id/special_order"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#616161"
+            android:inputType="number"
+            android:textColorHint="#FF80AB"
+            android:hint="Special Order#"
+            android:paddingLeft="8dp"
+            android:paddingBottom="8dp"
+            android:textSize="18sp"/>
+    </LinearLayout>
+
+</LinearLayout>
